@@ -1,0 +1,38 @@
+.container{
+    background-color: rgb(244, 200, 207);
+    height: 18.66cm;
+}
+.backimg{
+    margin-left: 200px;
+}
+
+.logo{
+    margin-top: -670px;
+}
+
+.tagline{
+    margin-top: 100px;
+    margin-left: 120px;
+    font-size: larger;
+}
+
+.mainline{
+    margin-top: 50px;
+    font-size: x-large;
+    margin-left: 120px;
+}
+
+.button{
+    margin-left: 160px;
+    margin-top: 50px;
+    border: solid;
+    width: 2.95cm;
+    border-radius: 6px;
+}
+
+.name{
+    font-size: small;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
